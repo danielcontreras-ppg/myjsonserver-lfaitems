@@ -1,9 +1,15 @@
 {
   "items": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+      "ItemCode": "00033115",
+      "ItemDescription": "N-BUTYL ACETATE >98%",
+      "TechnicalGroup": "SS"
+    },
+    {
+      "ItemCode": "00040526",
+      "ItemDescription": "METHANOL",
+      "TechnicalGroup": "SA"
+    }    
   ],
   "profile": {
     "name": "typicode"
